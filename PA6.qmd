@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: "Spruha Nayak, Tyler Luby Howard, Aaron Eliscu, Maxwell Dubow"
 format: html
 editor: visual
 embed-resources: true
