@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: "Spruha, Tyler, Max, Aaron"
 format: html
 editor: visual
 embed-resources: true
